@@ -35,7 +35,7 @@ const Contact = () => {
         </div>
 
         <p className="text-center text-gray-400 text-sm px-4">
-          Let's connect on these platforms!
+          Let&apos;s connect on these platforms!
         </p>
       </div>
     </div>

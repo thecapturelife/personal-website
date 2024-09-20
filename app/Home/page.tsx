@@ -7,7 +7,7 @@ const Home = () => {
     <div className="bg-black h-auto text-white">
       <NavBar />
       <div className="flex flex-col items-center justify-center h-screen bg-cover bg-center bg-no-repeat" style={{ backgroundImage: 'url(/albi.jpeg)' }}> 
-        <h1 className="text-4xl font-bold mb-4">Welcome to Albin's World of Creativity</h1> {/* Changed `&apos;` to standard single quote */}
+        <h1 className="text-4xl font-bold mb-4">Welcome to Albin&apos;s World of Creativity</h1>
         <p className="text-xl">Specializing in Frontend Development</p>
       </div>
       <div className="py-16 px-6 bg-gray-900">

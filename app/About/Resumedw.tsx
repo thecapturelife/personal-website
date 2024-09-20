@@ -4,7 +4,7 @@ import './resumedw.css';
 const DownloadButton: React.FC = () => {
   return (
     <a 
-      href="ALBIN-JOHN (2).pdf"
+      href="/ALBIN-JOHN (2).pdf"  
       download="resume.pdf"
       className="button px-4 py-2"
     >
@@ -14,3 +14,4 @@ const DownloadButton: React.FC = () => {
 };
 
 export default DownloadButton;
+

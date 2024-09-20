@@ -20,11 +20,11 @@ const About = () => {
             </div>
           </div>
           <h1 className='font-extrabold text-3xl md:text-5xl text-white text-center md:text-left'>
-            <span className='text-red-800 text-4xl md:text-6xl'>I'm</span> ALBIN JOHN
+            <span className='text-red-800 text-4xl md:text-6xl'>I&apos;m</span> ALBIN JOHN
           </h1>
           <h2 className='font-serif text-gray-50 text-xl md:text-3xl mt-2 md:mt-4 text-center md:text-left'>Frontend Developer</h2>
           <p className='mt-4 font-serif text-white text-center md:text-left max-w-sm md:max-w-md'>
-            I'm a passionate React developer with experience in building beautiful and functional web applications. I love creating user-friendly interfaces and solving complex problems through code.
+            I&apos;m a passionate React developer with experience in building beautiful and functional web applications. I love creating user-friendly interfaces and solving complex problems through code.
           </p>
           <div className='mt-6'>
             <DownloadButton />
